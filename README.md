@@ -8,3 +8,5 @@ This solution utilizes a Postgres DB to store all the above Pokemon data, and mo
 In the future, I also plan to turn this into a one-Pokemon generator and add a lot more complicated information, including a generated path through the games, and a resulting moveset from that path.
 
 Previous (and future?) location: twitter.com/randpoketeambot
+
+(In the meantime, I may set up a reddit bot as an endpoint for this code, now that I am familiar with it!)
